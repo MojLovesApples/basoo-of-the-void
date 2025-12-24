@@ -1,4 +1,4 @@
-## Basoo of The Void
+## Basoo of The Void ![GitHub all releases](https://img.shields.io/github/downloads/MojLovesApples/basoo-of-the-void/total)
 A lightweight Fabric utility mod that adds a simple, responsive auto-clicker for Mouse Button 2 (Right Click).
 
 ## How to Use
