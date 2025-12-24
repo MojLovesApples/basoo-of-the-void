@@ -37,7 +37,7 @@ public class BasooOfTheVoidClient implements ClientModInitializer {
 			// Simulate the right click action with the item held in hand
 			client.interactionManager.interactItem(client.player, Hand.MAIN_HAND);
 
-			client.player.swingHand(Hand.MAIN_HAND); // Visually swing the hand
+//			client.player.swingHand(Hand.MAIN_HAND); // Visually swing the hand
 		}
 	}
 
