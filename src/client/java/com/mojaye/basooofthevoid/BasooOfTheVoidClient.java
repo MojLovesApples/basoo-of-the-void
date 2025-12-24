@@ -1,6 +1,6 @@
 package com.mojaye.basooofthevoid;
 
-import com.mojaye.basooofthevoid.classes.SaveManager;
+import com.mojaye.basooofthevoid.config.SaveManager;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.rendering.v1.HudRenderCallback;
 import net.fabricmc.fabric.api.client.command.v2.ClientCommandManager;
